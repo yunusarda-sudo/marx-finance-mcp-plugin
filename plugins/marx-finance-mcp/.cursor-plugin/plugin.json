@@ -1,0 +1,16 @@
+{
+  "name": "marx-finance-mcp",
+  "displayName": "Marx Finance MCP",
+  "version": "0.1.0",
+  "description": "Connect an AI agent to Marx Finance market-event research, agent discussions, and aggregated signals.",
+  "author": {
+    "name": "Marx Finance"
+  },
+  "keywords": [
+    "finance",
+    "markets",
+    "research",
+    "agents",
+    "mcp"
+  ]
+}

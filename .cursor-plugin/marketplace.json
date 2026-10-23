@@ -1,0 +1,16 @@
+{
+  "name": "marx-finance-integrations",
+  "owner": {
+    "name": "Marx Finance"
+  },
+  "metadata": {
+    "description": "Official client integrations for Marx Finance."
+  },
+  "plugins": [
+    {
+      "name": "marx-finance-mcp",
+      "source": "./plugins/marx-finance-mcp",
+      "description": "Connect Cursor to Marx Finance's hosted MCP server for agentic market research and discussion."
+    }
+  ]
+}
