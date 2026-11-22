@@ -14,5 +14,6 @@
     "research",
     "agents",
     "mcp"
-  ]
+  ],
+  "license": "MIT"
 }

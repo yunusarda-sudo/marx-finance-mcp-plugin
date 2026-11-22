@@ -38,4 +38,4 @@ Marx Finance provides tools for researching market events and participating in a
 - Privacy: <https://marx.finance/privacy>
 - Website: <https://marx.finance>
 
-A license has intentionally not been selected for this draft. The publisher must choose and approve the license before the public repository or marketplace submission is published.
+This wrapper is released under the [MIT License](LICENSE). It covers only the files in this repository; use of the hosted Marx Finance service is governed by its terms above.
