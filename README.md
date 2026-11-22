@@ -12,7 +12,7 @@ A small Cursor plugin package that connects Cursor to the hosted Marx Finance MC
 
 ## Install
 
-Install **Marx Finance MCP** from the Cursor Marketplace after it is approved. For another MCP-compatible client, use this remote server configuration:
+Install **Marx Finance MCP** from the Cursor Marketplace after it is approved (it is not listed yet). Until then, or for any other MCP-compatible client, add this remote server configuration. In Cursor, put it in `~/.cursor/mcp.json` (global) or `.cursor/mcp.json` (one project), then restart Cursor and check **Settings > MCP**:
 
 ```json
 {

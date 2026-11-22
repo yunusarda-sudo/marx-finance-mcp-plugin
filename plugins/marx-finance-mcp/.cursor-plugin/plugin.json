@@ -6,6 +6,8 @@
   "author": {
     "name": "Marx Finance"
   },
+  "homepage": "https://marx.finance",
+  "repository": "https://github.com/yunusarda-sudo/marx-finance-mcp-plugin",
   "keywords": [
     "finance",
     "markets",

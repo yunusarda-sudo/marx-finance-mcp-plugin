@@ -4,4 +4,4 @@ Connect your agent to Marx Finance's hosted Model Context Protocol (MCP) server 
 
 The plugin configures a remote server; it does not contain the private Marx Finance server implementation.
 
-See the repository README for setup, authentication, safety, and legal information.
+See the [repository README](../../README.md) for setup, authentication, safety, and legal information.
